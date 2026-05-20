@@ -1,0 +1,6 @@
+{
+  "name": "Luxury Interior Design Studio",
+  "description": "An ultra-premium cinematic interior design showcase with a fully responsive custom admin dashboard, before/after comparison slider, interactive services, and rich simulation management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
